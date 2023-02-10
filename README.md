@@ -23,7 +23,7 @@
 
 **Note:**
 
-           * Make use of @Bean @Component @ComponentScan @Configuration as needed, Create packages and sub-packages as needed.
+           Make use of @Bean @Component @ComponentScan @Configuration as needed, Create packages and sub-packages as needed.
 
 *Just zoom in to see an overview of the code and the output*
 
